@@ -1,0 +1,10 @@
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Release\AsyncSocketServer.exe.config
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Release\AsyncSocketServer.exe
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Release\AsyncSocketServer.pdb
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Release\SocketAsync.dll
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Release\SocketAsync.pdb
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Release\AsyncSocketServer.csproj.AssemblyReference.cache
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Release\AsyncSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Release\AsyncSocketServer.csproj.CopyComplete
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Release\AsyncSocketServer.exe
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Release\AsyncSocketServer.pdb

@@ -1,0 +1,19 @@
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Debug\SocketAsync.dll
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\bin\Debug\SocketAsync.pdb
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.AssemblyReference.cache
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+C:\Users\diegom\source\repos\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.AssemblyReference.cache
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\bin\Debug\SocketAsync.dll
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\bin\Debug\SocketAsync.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CopyComplete

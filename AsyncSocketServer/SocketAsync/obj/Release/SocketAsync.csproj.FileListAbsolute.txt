@@ -1,0 +1,5 @@
+C:\Users\diegom\source\repos\AsyncSocketServer\SocketAsync\bin\Release\SocketAsync.dll
+C:\Users\diegom\source\repos\AsyncSocketServer\SocketAsync\bin\Release\SocketAsync.pdb
+C:\Users\diegom\source\repos\AsyncSocketServer\SocketAsync\obj\Release\SocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\diegom\source\repos\AsyncSocketServer\SocketAsync\obj\Release\SocketAsync.dll
+C:\Users\diegom\source\repos\AsyncSocketServer\SocketAsync\obj\Release\SocketAsync.pdb

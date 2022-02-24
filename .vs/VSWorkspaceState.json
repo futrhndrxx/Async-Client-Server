@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AsyncSocketClient",
+    "\\AsyncSocketClient\\AsyncSocketClient",
+    "\\AsyncSocketServer",
+    "\\AsyncSocketServer\\AsyncSocketServer",
+    "\\AsyncSocketServer\\SocketAsync"
+  ],
+  "SelectedNode": "\\AsyncSocketServer\\AsyncSocketServer\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

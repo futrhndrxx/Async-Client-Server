@@ -1,0 +1,10 @@
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.AssemblyReference.cache
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe.config
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\bin\Debug\SocketAsync.dll
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\bin\Debug\SocketAsync.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+C:\Users\diegom\Desktop\Async Client Server\AsyncSocketClient\AsyncSocketClient\obj\Debug\AsyncSocketClient.csproj.CopyComplete
